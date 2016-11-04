@@ -1,7 +1,7 @@
 # MacTrackz
 Machine Learning Term Project , Autumn 2016 , IIIT Kharagpur
 
-1. [ Project Proposal ](https://github.com/ananda2016/MacTrackz/blob/master/Docs/Project_Proposal.md) 
+1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/ananda2016/MacTrackz/blob/master/Docs/Dataset.md) 
 3. [Solution over view](https://github.com/ananda2016/MacTrackz/blob/master/pics/Screenshot%20from%202016-11-04%2014-46-07.png)
    ![](https://github.com/ananda2016/MacTrackz/blob/master/pics/Screenshot%20from%202016-11-04%2014-46-07.png)
