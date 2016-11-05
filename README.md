@@ -12,3 +12,7 @@ Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 9. [Sample Demo(If possible provide a link : otherwise remove this heading)]()
 10. [Conclusion]()              
 11. [Sample Code]()
+
+# Team
+
+
