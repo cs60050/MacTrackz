@@ -2,19 +2,7 @@
 
     Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
-# Team Members
-  	Abhisek Chowdhury 
-    Omprakash Chakraborty 
-    shreya ghosh
-    Manaar Alam
-    Aditi Chandra 
-    Alapan Kuila
-    Ananda Das 
-    Samridha Kumar
-    Arnab Chakraborty 
-    Diangarti Tariang 
-    Snigdha Das 
-    Saptami Ghosh 
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/team.jpg)
     
 1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/cs60050/MacTrackz/tree/master/Sample-Data) 
