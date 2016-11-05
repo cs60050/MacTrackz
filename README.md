@@ -1,6 +1,20 @@
 # MacTrackz
-Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
+    Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
+# Team Members
+  	Abhisek Chowdhury 
+    Omprakash Chakraborty 
+    shreya ghosh
+    Manaar Alam
+    Aditi Chandra 
+    Alapan Kuila
+    Ananda Das 
+    Samridha Kumar
+    Arnab Chakraborty 
+    Diangarti Tariang 
+    Snigdha Das 
+    Saptami Ghosh 
+    
 1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/cs60050/MacTrackz/tree/master/Sample-Data) 
 3. [Solution over view]()
@@ -13,6 +27,6 @@ Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 10. [Conclusion]()              
 11. [Sample Code]()
 
-# Team
+
 
 
