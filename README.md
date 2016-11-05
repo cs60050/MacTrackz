@@ -1,5 +1,5 @@
 # MacTrackz
-Machine Learning Term Project , Autumn 2016 , IIIT Kharagpur
+Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
 1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/cs60050/MacTrackz/tree/master/Sample-Data) 
