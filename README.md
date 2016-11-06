@@ -3,6 +3,22 @@
     Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon.jpg)
+
+## Team Members
+
+  Abhishek Chowdhury <br />
+  OmPrakash Chakraborty <br /> 
+  Shreya Ghosh <br />
+  Manaar Alam <br />
+  Alapan Kulia <br />
+  Aditi Chandra <br />
+  Ananda Das <br />
+  Arnab Chakraborty <br />
+  Samriddha Kumar <br />
+  Snigdha Das <br />
+  Diangarti Tariang <br />
+  Saptami Ghosh<br /> 
+
     
 1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/cs60050/MacTrackz/tree/master/Sample-Data) 
