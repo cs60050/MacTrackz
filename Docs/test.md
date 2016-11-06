@@ -4,3 +4,6 @@
 Choose <code>y - (y<sup>2</sup> - k) / 2y</code> as the next guess.
 
 Choose <code>y - (y<sub>2</sub> - k) / 2y</code> as the next guess.
+
+
+<code>y-y<sub>0</sub>=m(x-x<sup>0</sup>)</code>
