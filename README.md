@@ -2,7 +2,7 @@
 
     Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/team.jpg)
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon.jpg)
     
 1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/cs60050/MacTrackz/tree/master/Sample-Data) 
