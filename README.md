@@ -36,9 +36,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 |Extraction of study region road map <br />Map matching of GPS traces with<br />the underlying road network<br />Segmentation of the study region |
 ----------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------
+
 |Identification of relevant routes<br />Re-routing computations based on path ranking|
 --------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------
+
 |Generating road graph of the GPS traces<br />Segment based congestion threshold depiction<br />Congestion ranking of road segments<br />Detection of traffic bottleneck based on the congestion ranks along the path|
 ---------------------------------------------------------------------------
