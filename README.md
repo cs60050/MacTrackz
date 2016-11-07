@@ -2,7 +2,7 @@
 
     Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon.jpg)
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon_corr.jpg)
 ## Team Members
   Abhishek Chowdhury <br />
   OmPrakash Chakraborty <br /> 
