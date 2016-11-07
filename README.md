@@ -1,4 +1,4 @@
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/name.jpg)
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/logo.jpg)
 
     Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
