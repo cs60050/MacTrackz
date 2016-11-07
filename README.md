@@ -35,10 +35,10 @@
 ## Roadmap
 ----------------------------------------------------------------------------------------------------------------------------------------
 |:white_check_mark:[Extraction of study region road map]() <br />:white_check_mark:[Map matching of GPS traces with]()<br />:white_check_mark:[the underlying road network]()<br />:white_check_mark:[Segmentation of the study region]() |
-----------------------------------------------------------------------------------------------------------------------------------------
+:---------------------------------------------------------------------------------------------------------------------------------------
 
 |:white_check_mark:[Identification of relevant routes]()<br />:white_check_mark:[Re-routing computations based on path ranking]()|
---------------------------------------------------------------------------------------
+:--------------------------------------------------------------------------------------
 
 |:white_check_mark:[Generating road graph of the GPS traces]()<br />:white_check_mark:[Segment based congestion threshold depiction]()<br />:white_check_mark:[Congestion ranking of road segments]()<br />:white_check_mark:[Detection of traffic bottleneck based on the congestion ranks along the path]()|
----------------------------------------------------------------------------
+:---------------------------------------------------------------------------
