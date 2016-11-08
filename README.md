@@ -34,13 +34,13 @@
 
 #Roadmap :vertical_traffic_light::bike::minibus::truck::tractor:
 
-:oncoming_bus:[Extraction of study region road map]() <br />:oncoming_bus:[Map matching of GPS traces with]()<br />:oncoming_bus:[The underlying road network]()<br />:oncoming_bus:[Segmentation of the study region]() |
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Extraction of study region road map]() <br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Map matching of GPS traces with]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[The underlying road network]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segmentation of the study region]() |
 :----------------------------------------------------------------------------------- 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/arrow.png)
 
-:oncoming_bus:[Identification of relevant routes]()<br />:oncoming_bus:[Re-routing computations based on path ranking]()|
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Identification of relevant routes]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Re-routing computations based on path ranking]()|
 :------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/arrow.png) 
 
-:oncoming_bus:[Generating road graph of the GPS traces]()<br />:oncoming_bus:[Segment based congestion threshold depiction]()<br />:oncoming_bus:[Congestion ranking of road segments]()<br />:oncoming_bus:[Detection of traffic bottleneck based on the congestion ranks along the path]()|
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Generating road graph of the GPS traces]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segment based congestion threshold depiction]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Congestion ranking of road segments]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Detection of traffic bottleneck based on the congestion ranks along the path]()|
 :---------------------------------------------------------------------------
