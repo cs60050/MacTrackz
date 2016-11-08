@@ -33,7 +33,6 @@
 11. [Sample Code]()
 
 #Roadmap :vertical_traffic_light::bike::minibus::truck::car::tractor:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 |:oncoming_taxi:[Extraction of study region road map]() <br />:oncoming_taxi:[Map matching of GPS traces with]()<br />:oncoming_taxi:[the underlying road network]()<br />:oncoming_taxi:[Segmentation of the study region]() |
