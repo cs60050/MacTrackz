@@ -4,18 +4,15 @@
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon_corr.jpg)
 #Team Members 
-  Abhishek Chowdhury <br />
-  OmPrakash Chakraborty <br /> 
-  Shreya Ghosh <br />
-  Manaar Alam <br />
-  Alapan Kulia <br />
-  Aditi Chandra <br />
-  Ananda Das <br />
-  Arnab Chakraborty <br />
-  Samriddha Kumar <br />
-  Snigdha Das <br />
-  Diangarti Tariang <br />
-  Saptami Ghosh<br /> 
+##### Abhishek Chowdhury <br />
+##### Shreya Ghosh : 16CS91P01  <br />
+#####  Manaar Alam : 16CS91R07 <br />
+#####  Alapan Kulia <br />
+#####  Aditi Chandra <br />
+#####  Ananda Das : 15CS72P01 <br />
+#####  Samriddha Kumar : 16CS71P03 <br />
+#####  Snigdha Das : 16CS91R06 <br />
+#####  Diangarti Tariang <br />
 
 
 ================================ THis part will be removed  ============================== 
