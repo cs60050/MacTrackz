@@ -8,7 +8,7 @@
 ##### Shreya Ghosh : 16CS91P01  <br />
 #####  Manaar Alam : 16CS91R07 <br />
 #####  Alapan Kulia <br />
-#####  Aditi Chandra <br />
+#####  Aditi Chandra: 16CS71P02 <br />
 #####  Ananda Das : 15CS72P01 <br />
 #####  Samriddha Kumar : 16CS71P03 <br />
 #####  Snigdha Das : 16CS91R06 <br />
