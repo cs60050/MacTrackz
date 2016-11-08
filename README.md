@@ -3,7 +3,7 @@
     Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon_corr.jpg)
-#Team Members
+#Team Members :two_men_holding_hands::two_women_holding_hands::two_men_holding_hands::two_women_holding_hands:
   Abhishek Chowdhury <br />
   OmPrakash Chakraborty <br /> 
   Shreya Ghosh <br />
