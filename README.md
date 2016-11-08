@@ -34,16 +34,16 @@
 
 #Roadmap :vertical_traffic_light::bike::minibus::truck::tractor:
 
-
- ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Extraction of study region road map]() <br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Map matching of GPS traces with](https://github.com/cs60050/MacTrackz/blob/master/Docs/map_matching.md)<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[The underlying road network]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segmentation of the study region]() |
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Extraction of study region road map]() <br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Map matching of GPS traces with](https://github.com/cs60050/MacTrackz/blob/master/Docs/map_matching.md)<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[The underlying road network]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segmentation of the study region]() |
 :----------------------------------------------------------------------------------- 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/arrow.png)
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Identification of relevant routes]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Re-routing computations based on path ranking]()|
 :------------------------------------------------------------------------------------------------------------------------
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/arrow.png) 
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/arrow.png)
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Generating road graph of the GPS traces]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segment based congestion threshold depiction]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Congestion ranking of road segments]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Detection of traffic bottleneck based on the congestion ranks along the path]()|
 :---------------------------------------------------------------------------
+)
 
 
