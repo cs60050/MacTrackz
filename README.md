@@ -35,10 +35,14 @@
 #Roadmap :vertical_traffic_light::bike::minibus::truck::car::tractor:
 ----------------------------------------------------------------------------------------------------------------------------------------
 |:oncoming_taxi:[Extraction of study region road map]() <br />:oncoming_taxi:[Map matching of GPS traces with]()<br />:oncoming_taxi:[the underlying road network]()<br />:oncoming_taxi:[Segmentation of the study region]() |
-:--------------------------------------------------------------------------------------------------------------------------------------- :arrow_heading_down:
+:--------------------------------------------------------------------------------------------------------------------------------------- 
 
+:arrow_heading_down:
+--------------------------------------------------------------------------------------------------------------
 |:oncoming_taxi:[Identification of relevant routes]()<br />:oncoming_taxi:[Re-routing computations based on path ranking]()|
 :--------------------------------------------------------------------------------------
+
 :arrow_heading_down:
+-------------------------------------------------------------------------------------------------------------
 |:oncoming_taxi:[Generating road graph of the GPS traces]()<br />:oncoming_taxi:[Segment based congestion threshold depiction]()<br />:oncoming_taxi:[Congestion ranking of road segments]()<br />:oncoming_taxi:[Detection of traffic bottleneck based on the congestion ranks along the path]()|
 :---------------------------------------------------------------------------
