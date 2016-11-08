@@ -18,8 +18,8 @@
   Saptami Ghosh<br /> 
 
 
+================================ THis part will be removed  ============================== 
 
-    
 1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/cs60050/MacTrackz/tree/master/Sample-Data) 
 3. [Solution over view]()
@@ -32,9 +32,12 @@
 10. [Conclusion]()              
 11. [Sample Code]()
 
+
+================================ THis part will be removed  ==============================
+
 #Roadmap :vertical_traffic_light::bike::minibus::truck::tractor:
 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Extraction of study region road map]() <br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Map matching of GPS traces with]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[The underlying road network]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segmentation of the study region]() |
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Extraction of study region road map]() <br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Map matching of GPS traces with](https://github.com/cs60050/MacTrackz/blob/master/Docs/map_matching.md)<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[The underlying road network]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segmentation of the study region]() |
 :----------------------------------------------------------------------------------- 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/arrow.png)
 
