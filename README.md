@@ -3,7 +3,7 @@
     Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon_corr.jpg)
-## Team Members
+#Team Members
   Abhishek Chowdhury <br />
   OmPrakash Chakraborty <br /> 
   Shreya Ghosh <br />
@@ -32,7 +32,7 @@
 10. [Conclusion]()              
 11. [Sample Code]()
 
-## Roadmap :vertical_traffic_light::bike::minibus::truck::car::tractor:
+#Roadmap :vertical_traffic_light::bike::minibus::truck::car::tractor:
 ----------------------------------------------------------------------------------------------------------------------------------------
 |:oncoming_taxi:[Extraction of study region road map]() <br />:oncoming_taxi:[Map matching of GPS traces with]()<br />:oncoming_taxi:[the underlying road network]()<br />:oncoming_taxi:[Segmentation of the study region]() |
 :---------------------------------------------------------------------------------------------------------------------------------------
