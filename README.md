@@ -34,7 +34,7 @@
 
 #Roadmap :vertical_traffic_light::bike::minibus::truck::car::tractor:
 ----------------------------------------------------------------------------------------------------------------------------------------
-|:oncoming_bus:[Extraction of study region road map]() <br />:oncoming_bus:[Map matching of GPS traces with]()<br />:oncoming_bus:[the underlying road network]()<br />:oncoming_bus:[Segmentation of the study region]() |
+|:oncoming_bus:[Extraction of study region road map]() <br />:oncoming_bus:[Map matching of GPS traces with]()<br />:oncoming_bus:[The underlying road network]()<br />:oncoming_bus:[Segmentation of the study region]() |
 :---------------------------------------------------------------------------------------------------------------------------------------                                                                                                         
 
 |:oncoming_bus:[Identification of relevant routes]()<br />:oncoming_bus:[Re-routing computations based on path ranking]()|
