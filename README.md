@@ -32,7 +32,7 @@
 10. [Conclusion]()              
 11. [Sample Code]()
 
-#Roadmap :vertical_traffic_light::bike::minibus::truck::car::tractor:
+#Roadmap :vertical_traffic_light::bike::minibus::truck::tractor:
 
 :oncoming_bus:[Extraction of study region road map]() <br />:oncoming_bus:[Map matching of GPS traces with]()<br />:oncoming_bus:[The underlying road network]()<br />:oncoming_bus:[Segmentation of the study region]() |
 :----------------------------------------------------------------------------------- 
