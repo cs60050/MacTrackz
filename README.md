@@ -12,7 +12,7 @@
 #####  Ananda Das : 15CS72P01 <br />
 #####  Samriddha Kumar : 16CS71P03 <br />
 #####  Snigdha Das : 16CS91R06 <br />
-#####  Diangarti Tariang <br />
+#####  Diangarti Tariang : 16CS91R08<br />
 
 
 ================================ THis part will be removed  ============================== 
@@ -44,6 +44,6 @@
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Generating road graph of the GPS traces]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segment based congestion threshold depiction]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Congestion ranking of road segments]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Detection of traffic bottleneck based on the congestion ranks along the path]()|
 :---------------------------------------------------------------------------
-)
+
 
 
