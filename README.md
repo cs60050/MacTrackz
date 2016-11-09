@@ -32,7 +32,7 @@
 
 ================================ THis part will be removed  ==============================
 
-#Roadmap :vertical_traffic_light::bike::minibus::truck::tractor:
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap.jpg)
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Extraction of study region road map]() <br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Map matching of GPS traces with](https://github.com/cs60050/MacTrackz/blob/master/Docs/map_matching.md)<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[The underlying road network]()<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segmentation of the study region]() |
 :----------------------------------------------------------------------------------- 
