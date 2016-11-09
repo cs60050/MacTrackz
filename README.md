@@ -3,16 +3,9 @@
 ### Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon_corr.jpg)
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/meet-our-team.jpg)
-##### Abhishek Chowdhury <br />
-##### Shreya Ghosh : 16CS91P01  <br />
-#####  Manaar Alam : 16CS91R07 <br />
-#####  Alapan Kulia <br />
-#####  Aditi Chandra: 16CS71P02 <br />
-#####  Ananda Das : 15CS72P01 <br />
-#####  Samriddha Kumar : 16CS71P03 <br />
-#####  Snigdha Das : 16CS91R06 <br />
-#####  Diangarti Tariang : 16CS91R08<br />
+------------------------------------------------------------------------------------
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/our%20team.jpg)
+
 
 
 ================================ THis part will be removed  ============================== 
