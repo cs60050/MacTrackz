@@ -3,7 +3,7 @@
 ### Machine Learning Term Project , Autumn 2016 , IIT Kharagpur
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/rush_hour_traffic_cartoon_corr.jpg)
-#Team Members 
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/meet-our-team.jpg)
 ##### Abhishek Chowdhury <br />
 ##### Shreya Ghosh : 16CS91P01  <br />
 #####  Manaar Alam : 16CS91R07 <br />
