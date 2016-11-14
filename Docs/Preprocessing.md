@@ -1,3 +1,4 @@
+### MAP MATCHING
 
 Map-matching is the process of aligning a sequence of observed user positions with the road network on a digital map. It is a 
 fundamental pre-processing step of our work . We have implemented ST-Matching(bold/underline) algorithm which handles low-sampling-rate GPS trajectories .Advantage of using this algorithm is it cosiders
@@ -39,7 +40,41 @@ analysis.
 ### Result Matching :
 This component evaluates the candidate graph using the weight information assigned during spatial/temporal analysis. It matches given trajectory to the path with highest score in the candidate graph. The results are then visualized on an interface that can be tailored towards different end-user devices. The results can also be stored in a traffic database to support external applications such as traffic management or driving directions.
 
-# ALGORITHMS
+#### ALGORITHMS
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/ST-Matching_algo.jpg)
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Find_matched_seq_algo.jpg)
+
+
+### SEGMENTATION
+As we are using unlabeled data we need to label the data using segmentation technique. Following is the sample input and output of the segmentation modulue . 
+
+##### Input :<br/> 
+39 2008-02-06 07:31:55 116.471568972 40.0006777559 61215 <br/>
+39 2008-02-06 07:36:55 116.466551456 39.9824077548 21555 <br/>
+39 2008-02-06 07:41:55 116.470695969 39.9797347746 50440 <br/>
+39 2008-02-06 07:46:55 116.488400567 39.9640832163 46033 <br/>
+39 2008-02-06 07:51:55 116.488391242 39.9650774185 86599 <br/>
+39 2008-02-06 07:56:55 116.497140056 39.9640600262 3858 <br/>
+39 2008-02-06 08:01:55 116.497266254 39.9629016765 3858 <br/>
+39 2008-02-06 08:06:55 116.483357363 39.9521418857 78516 <br/>
+39 2008-02-06 08:11:55 116.473850089 39.906719755 26757 <br/>
+39 2008-02-06 08:16:55 116.474930049 39.9067165233 32537 <br/>
+39 2008-02-06 08:21:55 116.484704567 39.9109855982 22878 <br/>
+39 2008-02-06 08:31:57 116.485587202 39.9116563146 46451 <br/>
+39 2008-02-06 08:36:55 116.456749944 39.9073077324 9739 <br/>
+
+##### Output <br/>
+39 2008-02-06 07:31:55 116.471568972 40.0006777559 61215 highway<br/>
+39 2008-02-06 07:36:55 116.466551456 39.9824077548 21555 highway<br/>
+39 2008-02-06 07:41:55 116.470695969 39.9797347746 50440 highway<br/>
+39 2008-02-06 07:46:55 116.488400567 39.9640832163 46033 others<br/>
+39 2008-02-06 07:51:55 116.488391242 39.9650774185 86599 others<br/>
+39 2008-02-06 07:56:55 116.497140056 39.9640600262 3858 highway<br/>
+39 2008-02-06 08:01:55 116.497266254 39.9629016765 3858 highway<br/>
+39 2008-02-06 08:06:55 116.483357363 39.9521418857 78516 highway<br/>
+39 2008-02-06 08:11:55 116.473850089 39.906719755 26757 highway<br/>
+39 2008-02-06 08:16:55 116.474930049 39.9067165233 32537 highway<br/>
+39 2008-02-06 08:21:55 116.484704567 39.9109855982 22878 local<br/>
+39 2008-02-06 08:31:57 116.485587202 39.9116563146 46451 local<br/>
+39 2008-02-06 08:36:55 116.456749944 39.9073077324 9739 highway<br/>
 
