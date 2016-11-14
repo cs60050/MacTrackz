@@ -7,11 +7,8 @@
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/team.jpg)
 
 
-
-================================ THis part will be removed  ============================== 
-
 1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
-2. [Dataset](https://github.com/cs60050/MacTrackz/tree/master/Sample-Data) 
+2. [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md) 
 3. [Solution over view]()
 4. [Preporocesing(of TE)]()
 5. [Model Building(learning algo : detail discussion)]()
@@ -22,8 +19,6 @@
 10. [Conclusion]()              
 11. [Sample Code]()
 
-
-================================ THis part will be removed  ==============================
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Project-Roadmap.jpg)
 
