@@ -22,7 +22,7 @@
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap.jpg)
 
-Extraction of road map<br />Map matching of GPS traces with the underlying road network<br />Segmentation of the study region |
+Extraction of road map of study region<br />Map matching of GPS traces with the underlying road network<br />Segmentation of the study region |
 :----------------------------------------------------------------------------------- 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap%20arrow.png)
 
