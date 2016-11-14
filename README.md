@@ -13,7 +13,7 @@
 4. [Preporocesing](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)
 5. [Model Building]()
 6. [Post Processing]()
-7. [Displaying Result ]()
+7. [Displaying Result ](https://github.com/cs60050/MacTrackz/blob/master/Docs/display.md)
 8. [Accuracy Measurement(If any , otherwise remove this heading)]()
 9. [Sample Demo(If possible provide a link : otherwise remove this heading)]()
 10. [Conclusion]()              
