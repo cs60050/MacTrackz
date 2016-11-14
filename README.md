@@ -25,7 +25,7 @@
 
 ================================ THis part will be removed  ==============================
 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap.jpg)
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Project-Roadmap.jpg)
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Extraction of study region road map]() <br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Map matching of GPS traces with the underlying road network](https://github.com/cs60050/MacTrackz/blob/master/Docs/map_matching.md)<br />![](https://github.com/cs60050/MacTrackz/blob/master/Picture/click.jpg)[Segmentation of the study region]() |
 :----------------------------------------------------------------------------------- 
