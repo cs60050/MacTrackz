@@ -7,13 +7,13 @@
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/team.jpg)
 
 
-1. [ Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
+1. [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md) 
 3. [Solution over view]()
-4. [Preporocesing(of TE)]()
-5. [Model Building(learning algo : detail discussion)]()
-6. [Post Processing(Integration part)]()
-7. [Displaying result (GUI)]()
+4. [Preporocesing](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)
+5. [Model Building]()
+6. [Post Processing]()
+7. [Displaying Result ]()
 8. [Accuracy Measurement(If any , otherwise remove this heading)]()
 9. [Sample Demo(If possible provide a link : otherwise remove this heading)]()
 10. [Conclusion]()              
