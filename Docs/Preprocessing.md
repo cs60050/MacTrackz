@@ -22,6 +22,7 @@ The architecture of our proposed map-matching system is shown in the following f
  
 ###  Candidate Preparation :
 This component contains a road network database with indexed edge and vertex information. It accepts given raw GPS trajectory from the user, and then retrieves all the possible candidate points for each sampling point on the trajectory. This step can be efficiently performed with the built-in grid-based spatial index. The output of this component is a set of candidate points and the candidate road segments they lie on.
+
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/candidate_prep.jpg)
 
 ### Spatial and Temporal Analysis :
