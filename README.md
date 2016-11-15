@@ -10,7 +10,7 @@
 1. [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
 2. [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md) 
 3. [Solution over view]()
-4. [Preporocesing](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)
+4. [Preporocessing](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)
 5. [Model Building]()
 6. [Post Processing]()
 7. [Displaying Result ](https://github.com/cs60050/MacTrackz/blob/master/Docs/display.md)
