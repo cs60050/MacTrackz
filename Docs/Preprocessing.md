@@ -1,7 +1,7 @@
 ### MAP MATCHING
 
 Map-matching is the process of aligning a sequence of observed user positions with the road network on a digital map. It is a 
-fundamental pre-processing step of our work . We have implemented ST-Matching(bold/underline) algorithm which handles low-sampling-rate GPS trajectories .Advantage of using this algorithm is it cosiders
+fundamental pre-processing step of our work . We have implemented ST-Matching(bold/underline) algorithm which handles low-sampling-rate GPS trajectories .Advantage of using this algorithm is, it cosiders :
 
 A. spatial geometric and topological structures of the road network.<br/>B. the temporal/speed constraints of the trajectories.<br/>
 
