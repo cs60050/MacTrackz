@@ -27,5 +27,8 @@ edge_id | road_type | no. of cars | average velocity | label ( 0 = TRUE, 1 = FAL
 6367          highway      1         2.24944142652       0<br/>
 
 Here,  ‘0’ indicates no congestion and ‘1’ indicates a congestion.<br/>
-Once, the dataset is classified as +ve and –ve, learning model is trained using the concept of K-nearest neighbours. Now, new examples are used to test the accuracy of the implemented model.<br/>  
+
+##LEARNING
+
+   Once, the dataset is classified as +ve and –ve, learning model is trained using the concept of K-nearest neighbours. Now, new examples are used to test the accuracy of the implemented model.<br/>  
 In this way, the entire methodology was implemented for successful congestion detection.
