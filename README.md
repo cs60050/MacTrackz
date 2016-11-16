@@ -8,18 +8,6 @@
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap.jpg)
 
-Extraction of road map of study region<br />Map matching of GPS traces with the underlying road network<br />Segmentation of the study region |
-:----------------------------------------------------------------------------------- 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap%20arrow.png)
-
-Generating road graph from the GPS traces<br />Division of trajectory into grids<br />Congestion ranking of road segments<br />Detection of traffic bottleneck based on the congestion ranks along the path|
-:---------------------------------------------------------------------------
-
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap%20arrow.png)
-
-Identification of relevant routes<br />Re-routing computations based on path ranking|
-:------------------------------------------------------------------------------------------------------------------------
-
 ### DETAILED STEPS :
 
  [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md)<br/>
