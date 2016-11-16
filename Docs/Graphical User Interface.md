@@ -10,7 +10,8 @@ A Graphical User Interface has been designed using Leaflet JavaScript for OpenSt
 
 The GUI design is shown below:
 
-![Image of GUI](https://github.com/cs60050/MacTrackz/blob/master/Picture/GUI.png)
+![Image of GUI](https://github.com/cs60050/MacTrackz/blob/master/Picture/GUI.png)</BR> GUI DESIGN |
+---------------------------------------------------------------------------------------------------
 
  
 It has three features:
