@@ -1,4 +1,4 @@
-# Graphical User Interface
+### GRAPHICAL USER INTERFACE
 
 
 A Graphical User Interface has been designed using Leaflet JavaScript for OpenStreetMap. 
