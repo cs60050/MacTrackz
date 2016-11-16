@@ -24,7 +24,7 @@ Identification of relevant routes<br />Re-routing computations based on path ran
 
  [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md)<br/>
  [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md)<br/>
- [Solution over view](https://github.com/cs60050/MacTrackz/blob/master/Docs/Solution%20overview.md)<br/>
+ [Solution overview](https://github.com/cs60050/MacTrackz/blob/master/Docs/Solution%20overview.md)<br/>
  [Map Matching](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)<br/>
  [Segmentation](https://github.com/cs60050/MacTrackz/blob/master/Docs/Road%20Segmentation.md)<br/>
  [Model Building](https://github.com/cs60050/MacTrackz/blob/master/Docs/Model%20Building.md)<br/>
