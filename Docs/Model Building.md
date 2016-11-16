@@ -22,11 +22,18 @@ The above output is input to the python script feature_extract.py, which gives t
 
 This output is stored in *feature_extracted.txt*<br/>
 
-MODEL BUILDING:
+##LABELING
+Once, the features are extracted, manually labeling of the datasets as +ve and –ve is done on the basis of particular threshold value (as described above). The python script learning.py takes feature_extracted.txt as input and generates output of the form:
+
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/4.png)
+
+Here, ‘0’ indicates no congestion and ‘1’ indicates a congestion.
+
+##MODEL BUILDING:
 Once, the dataset is classified as +ve and –ve, a portion is classified as ‘Training Data Set’ and the remaining as ‘Test Data Set’. 
 In our work,  1195 examples constituted the ‘Training Data Set’. The learning model is trained using the concept of K-nearest neighbours with training examples from the ‘Training Data Set’. 
 
-MODEL VALIDATION:
+##MODEL VALIDATION:
 The model is validated using the ‘Test Data Set’. The ‘Test Data Set’ is comprised of 853 examples. Specifically, model is run for 25 iterations and accuracy of the model (in terms of % of examples correctly classified) is calculated. The results are tabulated in the “Results” section.
 
 In this way, the entire methodology is implemented for successful congestion detection.
