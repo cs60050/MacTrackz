@@ -8,7 +8,7 @@ A Graphical User Interface has been designed using Leaflet JavaScript for OpenSt
 3.	AJAX <br/>
 4.	Apache Server
 
-The GUI initially designed is shown below:
+The GUI design is shown below:
 
 ![Image of GUI](https://github.com/cs60050/MacTrackz/blob/master/Picture/GUI.png)
 
