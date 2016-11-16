@@ -16,7 +16,7 @@ The output generated is stored in a text file, *edge_id.txt* which contains the 
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/2.png)
 
-The above output is input to the python script feature_extract.py, which gives the no. of cars within the specified interval  (say 5 mins) for a particular ‘edge_id’ and the average velocity of the cars as output in the form:<br/>
+The above output is input to the python script feature_extract.py, which gives the no. of cars within the specified interval  (say 5 mins) for a particular ‘edge_id’ and the average velocity of the cars,  as output:<br/>
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/3.png)
 
