@@ -20,7 +20,7 @@ where,</br>
 name : different types of road segment </br> 
 (viz. lane , opposite, opposite_lane, track, bridleway, bus_guideway, byway, cycleway, footway, living_street, motorway, motorway_junction, motorway_link, path, pedestrian, primary, primary_link, residential, road, secondary, secondary_link, service, services, steps, tertiary tertiary_link, track, trunk, trunk_link, unclassified, roundabout, grade1, grade2, grade3, grade4, grade5)
 
-Information has been collected from the following links to classify if a road type falls under ‘highway’ category or ‘local’ category:
+Information has been collected from the following links to classify road type into ‘highway’ and ‘local’:
 
 http://wiki.openstreetmap.org/wiki/Map_Features
 http://wiki.openstreetmap.org/wiki/Key:highway
