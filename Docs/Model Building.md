@@ -34,7 +34,7 @@ Once, the dataset is classified as +ve and –ve, a portion is classified as ‘
 In our work,  1195 examples constituted the ‘Training Data Set’. The learning model is trained using the concept of K-nearest neighbours with training examples from the ‘Training Data Set’. 
 
 ##MODEL VALIDATION:
-The model is validated using the ‘Test Data Set’. The ‘Test Data Set’ is comprised of 853 examples. Specifically, model is run for 25 iterations and accuracy of the model (in terms of % of examples correctly classified) is calculated. The results are tabulated in the “Results” section.
+The model is validated using the ‘Test Data Set’. The ‘Test Data Set’ is comprised of 853 examples. Specifically, model is run for 25 iterations and accuracy of the model (in terms of % of examples correctly classified) is calculated. The results are tabulated in the [“Results”](https://github.com/cs60050/MacTrackz/blob/master/Docs/Learning%20Accuracy%20and%20Results.md) section.
 
 In this way, the entire methodology is implemented for successful congestion detection.
 
