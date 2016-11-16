@@ -1,12 +1,13 @@
 # Graphical User Interface
 
 
-A Graphical User Interface was designed using Leaflet JavaScript for OpenStreetMap. 
-The technologies used were:
-1.	PHP
-2.	JavaScript
-3.	AJAX
+A Graphical User Interface has been designed using Leaflet JavaScript for OpenStreetMap. 
+ Following technologies are used: <br/>
+1.	PHP <br/>
+2.	JavaScript <br/>
+3.	AJAX <br/>
 4.	Apache Server
+
 The GUI initially designed is shown below:
 
 ![Image of GUI](https://github.com/cs60050/MacTrackz/blob/master/Picture/GUI.png)
