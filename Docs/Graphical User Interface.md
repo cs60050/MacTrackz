@@ -30,50 +30,39 @@ Note - User may select multiple files in Input Button; in that case background c
 --------
 
 **2.Visualisation of congestion detection:**
+
 Input is a range from 1 to 5.
-Using this feature, the congested ways in a study region are shown in a range of 1 to 5, where 1 represents the most congested way and 5 represents the least congested way in the segmented part. 
-Choosing any particular range value and clicking on ‘’Submit’ results in plotting of all the .json files upto that range value, all in different colors i.e. all the road segments starting from the most congested way upto that range are plotted. 
+Using this feature, the congested ways in a study region are shown in a range of 1 to 5, where **1 represents the most congested way and 5 represents the least congested way in the segmented part. **
+Choosing any particular range value and clicking on ‘Submit’ results in plotting of all the .json files upto that range value, all in different colors i.e. all the road segments starting from the most congested way upto that range are plotted as illustrated below,
 
-This is shown below:
+
     
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_1.png)
-
- > (Range 1: Most congested way)
-
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_1.png)</br>RANGE 1: MOST CONGESTED WAY|
+-------------------------------------------------------------------------------------------------------------
 
 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_2.png)
-
-   > (Range 2)
-
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_2.png) </br>RANGE 2|
+-----------------------------------------------------------------------------------------
 
 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_3.png)
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_3.png) </br>RANGE 3|
+----------------------------------------------------------------------------------------- 
 
-   > (Range 3)
-   
-   
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_4.png) </br>RANGE 4|
+-----------------------------------------------------------------------------------------
 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_4.png)
-
-   > (Range 4)
-   
-   
-
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_5.png)
-
-   > (Range 5: All possible congestion levels)
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature2_5.png) </br>RANGE 5: LEAST CONGESTED WAY|
+--------------------------------------------------------------------------------------------------------------
 
 **3.	Finding Alternate Route:**
-	In case of a traffic congestion, alternate route is suggested using this feature.  
+
+In case of a traffic congestion, alternate route is suggested using this feature.  
 
 
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature3_input.png)
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature3_input.png) </br> PLOT INPUT|
+-----------------------------------------------------------------------------------------
 
-> (Plot Input)
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature3_output.png) </br>PLOT OUTPUT|
+-----------------------------------------------------------------------------------------
 
-
-![](https://github.com/cs60050/MacTrackz/blob/master/Picture/Feature3_output.png)
-
-> (Plot Output)
 
