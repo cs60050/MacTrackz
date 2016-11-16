@@ -2,9 +2,18 @@
 Road Segmentation is the classification of each road segment of the road network into highway road type and local road type. 
 This is required so that we can define separate threshold values for each (depending on the road type) for proper congestion detection.
 
-Each road segments/edges have the following attributes (contained in “road_table_name” table of the “road_network” database)
+Each road segments/edges have the following attributes (table name: “road_table_name”; database name: “road_network”)
 road_table_name:
- gid  | class_id | length        |      length_m      |                     name                     | source | target |     x1      |     y1     |     x2      |     y2     |         cost          |     reverse_cost      |       cost_s        |   reverse_cost_s    | rule | one_way | maxspeed_forward | maxspeed_backward |  osm_id   | source_osm | target_osm | priority |  
+-------
+ gid  |
+ -------
+ class_id |
+ -------
+ length        | 
+ -----------
+ length_m      |
+ ---------------
+ name                     | source | target |     x1      |     y1     |     x2      |     y2     |         cost          |     reverse_cost      |       cost_s        |   reverse_cost_s    | rule | one_way | maxspeed_forward | maxspeed_backward |  osm_id   | source_osm | target_osm | priority |  
 where,
 gid: ID no. of the given road segment
 class_id : ID no. of the different road types  
