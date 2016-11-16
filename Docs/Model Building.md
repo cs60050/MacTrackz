@@ -21,7 +21,7 @@ The above output is input to the python script feature_extract.py, which gives t
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/3.png)
 
 This output is stored in *feature_extracted.txt*<br/>
-Once, the features is extracted then manually labeling of the datasets as +ve and –ve is done based on a particular threshold value (as described above). The python script *learning.py* takes *feature_extracted.txt* as input and generates output of the form:<br/>
+Once, the features is extracted, manually labeling of the datasets as +ve and –ve is done on the basis of particular threshold value (as described above). The python script *learning.py* takes *feature_extracted.txt* as input and generates output of the form:<br/>
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/4.png)
 
