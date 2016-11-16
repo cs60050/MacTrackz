@@ -13,6 +13,7 @@ gid: ID no. of the given road segment </br>
 class_id : ID no. of the different road types  
 
 “osm_way_classes” table has the following attributes:
+
 class_id</br>type_id</br>name</br>priority</br>default_maxspeed |
 :------------------------------------------------------------
 where,</br>
