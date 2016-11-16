@@ -32,7 +32,7 @@ Note - User may select multiple files in Input Button; in that case background c
 **2.Visualisation of congestion detection:**
 
 Input is a range from 1 to 5.
-Using this feature, the congested ways in a study region are shown in a range of 1 to 5, where **1 represents the most congested way and 5 represents the least congested way in the segmented part. **
+Using this feature, the congested ways in a study region are shown in a range of 1 to 5, where **1 represents the most congested way and 5 represents the least congested way in the segmented part.**
 Choosing any particular range value and clicking on ‘Submit’ results in plotting of all the .json files upto that range value, all in different colors i.e. all the road segments starting from the most congested way upto that range are plotted as illustrated below,
 
 
