@@ -7,16 +7,6 @@
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/team.jpg)
 
 
- [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md)<br/>
- [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md)<br/>
- [Solution over view](https://github.com/cs60050/MacTrackz/blob/master/Docs/Solution%20overview.md)<br/>
- [Map Matching](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)<br/>
- [Segmentation](https://github.com/cs60050/MacTrackz/blob/master/Docs/Road%20Segmentation.md)<br/>
- [Model Building](https://github.com/cs60050/MacTrackz/blob/master/Docs/model_building.md)<br/>
- [Post Processing]()<br/>
- [Displaying Result ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Graphical%20User%20Interface.md)<br/>
- [Sample Demo(If possible provide a link : otherwise remove this heading)]()<br/>
- [Sample Code](https://github.com/cs60050/MacTrackz/tree/master/Code)<br/>
 
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap.jpg)
@@ -33,5 +23,16 @@ Generating road graph from the GPS traces<br />Division of trajectory into grids
 Identification of relevant routes<br />Re-routing computations based on path ranking|
 :------------------------------------------------------------------------------------------------------------------------
 
+### DETAIL STEPS :
 
+ [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md)<br/>
+ [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md)<br/>
+ [Solution over view](https://github.com/cs60050/MacTrackz/blob/master/Docs/Solution%20overview.md)<br/>
+ [Map Matching](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)<br/>
+ [Segmentation](https://github.com/cs60050/MacTrackz/blob/master/Docs/Road%20Segmentation.md)<br/>
+ [Model Building](https://github.com/cs60050/MacTrackz/blob/master/Docs/Model%20Building.md)<br/>
+ [Post Processing]()<br/>
+ [Displaying Result ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Graphical%20User%20Interface.md)<br/>
+ [Sample Demo(If possible provide a link : otherwise remove this heading)]()<br/>
+ [Sample Code](https://github.com/cs60050/MacTrackz/tree/master/Code)<br/>
 
