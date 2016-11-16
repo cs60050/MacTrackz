@@ -4,16 +4,11 @@ This is required so that we can define separate threshold values for each (depen
 
 Each road segments/edges have the following attributes (table name: “road_table_name”; database name: “road_network”)
 road_table_name:
--------
- gid  |
- -------
- class_id |
- -------
- length        | 
- -----------
- length_m      |
- ---------------
- name                     | source | target |     x1      |     y1     |     x2      |     y2     |         cost          |     reverse_cost      |       cost_s        |   reverse_cost_s    | rule | one_way | maxspeed_forward | maxspeed_backward |  osm_id   | source_osm | target_osm | priority |  
+
+ gid</br>class_id</br>length</br>length_m name</br>source</br>target</br>x1</br>y1</br>x2</br>y2</br>cost</br>reverse_cost</br>cost_s</br>reverse_cost_s</br>rule</br>one_way</br>maxspeed_forward</br>osm_id</br>source_osm</br>target_osm</br>priority|
+ :-------------------------------------------------------------
+ 
+
 where,
 gid: ID no. of the given road segment
 class_id : ID no. of the different road types  
