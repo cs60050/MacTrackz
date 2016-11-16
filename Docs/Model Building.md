@@ -3,9 +3,12 @@
 Road segmentation (i.e. classification of various road segments in the dataset to ‘highway’ or ‘local’) is followed by Feature Extraction. 
 
    Feature Extraction is necessary for proper labeling of the training examples as +ve or –ve , where +ve training examples are the ones corresponding to traffic congestion and –ve training examples are the ones corresponding to no traffic congestion. 
-   The **no. of cars** and **average velocity of cars** are chosen as features for labeling the dataset. 
+   
+   The **no. of cars** and **average velocity of cars** are chosen as features for labeling the dataset.
+   
 It has been reasoned that if the no. of cars in a bounding box are greater than a particular threshold value, there is congestion. Also, congestion occurs when the average velocity of cars is less than a particular threshold value. Chosen threshold values are different for highways and local roads. 
-  Initially, the velocity at which a car travels via a particular edge and the number of cars travelled on that edge, are found out . For this purpose, the python script *car_edge_velocity_map.py* was executed. The input to the python script was the output of the segmentation part which is of the the form:<br/>
+
+  Initially, the velocity at which a car travels via a particular edge and the number of cars travelled on that edge, are found out . For this purpose, the python script *car_edge_velocity_map.py* is executed. The input to the python script is the output of the segmentation part which is of the the form:<br/>
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/1.PNG)
 
