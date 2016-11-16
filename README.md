@@ -20,7 +20,7 @@ Generating road graph from the GPS traces<br />Division of trajectory into grids
 Identification of relevant routes<br />Re-routing computations based on path ranking|
 :------------------------------------------------------------------------------------------------------------------------
 
-### DETAIL STEPS :
+### DETAILED STEPS :
 
  [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md)<br/>
  [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md)<br/>
