@@ -11,7 +11,7 @@
 2. [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md) 
 3. [Solution over view]()
 4. [Preporocessing](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)
-5. [Model Building]()
+5. [Model Building](https://github.com/cs60050/MacTrackz/blob/master/Docs/model_building.md)
 6. [Post Processing]()
 7. [Displaying Result ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Graphical%20User%20Interface.md)
 8. [Accuracy Measurement(If any , otherwise remove this heading)]()
