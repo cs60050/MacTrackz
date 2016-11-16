@@ -17,7 +17,8 @@ class_id : ID no. of the different road types
 class_id</br>type_id</br>name</br>priority</br>default_maxspeed |
 :------------------------------------------------------------
 where,</br>
-name : the different types of road segment data available (viz. lane , opposite, opposite_lane, track, bridleway, bus_guideway, byway, cycleway, footway, living_street, motorway, motorway_junction, motorway_link, path, pedestrian, primary, primary_link, residential, road, secondary, secondary_link, service, services, steps, tertiary tertiary_link, track, trunk, trunk_link, unclassified, roundabout, grade1, grade2, grade3, grade4, grade5)
+name : different types of road segment data available </br> 
+(viz. lane , opposite, opposite_lane, track, bridleway, bus_guideway, byway, cycleway, footway, living_street, motorway, motorway_junction, motorway_link, path, pedestrian, primary, primary_link, residential, road, secondary, secondary_link, service, services, steps, tertiary tertiary_link, track, trunk, trunk_link, unclassified, roundabout, grade1, grade2, grade3, grade4, grade5)
 
 Information was sought manually from the following links to classify if a road type falls under ‘highway’ category or ‘local’ category:
 
