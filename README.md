@@ -7,17 +7,16 @@
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/team.jpg)
 
 
-1. [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md) 
-2. [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md) 
-3. [Solution over view](https://github.com/cs60050/MacTrackz/blob/master/Docs/Solution%20overview.md)
-4. [Preporocessing](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)
-5. [Model Building](https://github.com/cs60050/MacTrackz/blob/master/Docs/model_building.md)
-6. [Post Processing]()
-7. [Displaying Result ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Graphical%20User%20Interface.md)
-8. [Accuracy Measurement(If any , otherwise remove this heading)]()
-9. [Sample Demo(If possible provide a link : otherwise remove this heading)]()
-10. [Conclusion]()              
-11. [Sample Code](https://github.com/cs60050/MacTrackz/tree/master/Code)
+ [Project Proposal ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Project_Proposal.md)<br/>
+ [Dataset](https://github.com/cs60050/MacTrackz/blob/master/Docs/dataset.md)<br/>
+ [Solution over view](https://github.com/cs60050/MacTrackz/blob/master/Docs/Solution%20overview.md)<br/>
+ [Map Matching](https://github.com/cs60050/MacTrackz/blob/master/Docs/Preprocessing.md)<br/>
+ [Segmentation](https://github.com/cs60050/MacTrackz/blob/master/Docs/Road%20Segmentation.md)<br/>
+ [Model Building](https://github.com/cs60050/MacTrackz/blob/master/Docs/model_building.md)<br/>
+ [Post Processing]()<br/>
+ [Displaying Result ](https://github.com/cs60050/MacTrackz/blob/master/Docs/Graphical%20User%20Interface.md)<br/>
+ [Sample Demo(If possible provide a link : otherwise remove this heading)]()<br/>
+ [Sample Code](https://github.com/cs60050/MacTrackz/tree/master/Code)<br/>
 
 
 ![](https://github.com/cs60050/MacTrackz/blob/master/Picture/roadmap.jpg)
