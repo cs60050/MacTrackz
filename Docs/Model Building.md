@@ -7,20 +7,20 @@ Road segmentation (i.e. classification of various road segments in the dataset t
 It has been reasoned that if the no. of cars in a bounding box are greater than a particular threshold value, there is congestion. Also, congestion occurs when the average velocity of cars is less than a particular threshold value. Chosen threshold values are different for highways and local roads. 
   Initially, the velocity at which a car travels via a particular edge and the number of cars travelled on that edge, are found out . For this purpose, the python script *car_edge_velocity_map.py* was executed. The input to the python script was the output of the segmentation part which is of the the form:<br/>
 
-![]()
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/1.PNG)
 
 The output generated is stored in a text file, *edge_id.txt* which contains the details of journey of a list of cars travelling on a particular edge along with their velocity information as:<br/>
 
-![]()
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/2.png)
 
 The above output is input to the python script feature_extract.py, which gives the no. of cars within the specified interval  (say 5 mins) for a particular ‘edge_id’ and the average velocity of the cars as output in the form:<br/>
 
-![]()
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/3.png)
 
 This output is stored in *feature_extracted.txt*<br/>
 Once, the features is extracted then manually labeling of the datasets as +ve and –ve is done based on a particular threshold value (as described above). The python script *learning.py* takes *feature_extracted.txt* as input and generates output of the form:<br/>
 
-![]()
+![](https://github.com/cs60050/MacTrackz/blob/master/Picture/4.png)
 
 Here,  ‘0’ indicates no congestion and ‘1’ indicates a congestion.<br/>
 
