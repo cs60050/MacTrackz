@@ -28,8 +28,8 @@ http://wiki.openstreetmap.org/wiki/Highway_link
 http://wiki.openstreetmap.org/wiki/Key:highway#Roads
 http://wiki.openstreetmap.org/wiki/Key:highway#Paths
 
-Using these, one-to-one correspondence was established through manual inspection between each ‘class_id’ (from ‘osm_way_classes’) and road category (highway/local). 
-Based on the ‘class_id’ attribute and the corresponding road category (highway/local), each road segment/edge (using its ‘gid’ attribute from ‘road_table_name’) was classified as ‘highway’ or ‘local’.
-With this all road segments of the road network has been segmented to highway and local.
+By manual inspection, one-to-one correspondence was established through between each ‘class_id’ (from ‘osm_way_classes’) and road category (highway/local). 
+Based on the ‘class_id’ attribute and the corresponding road category (highway/local), each road segment/edge (using its ‘gid’ attribute from ‘road_table_name’) was classified as **highway** or **local**.
+
 
 
