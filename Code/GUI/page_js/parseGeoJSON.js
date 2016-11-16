@@ -40,17 +40,31 @@ function plotTraces(){
 
 //to plot from json file format
 function plotTraceJSON(){
-    alert("plotTraceJSON() called");
+    // alert("plotTraceJSON() called");
 
     var fileName = global_uploadFileName.name;
     var URL = "files/"+fileName;
-
-    //Show Markers from /files/*.json file
-    for ( var i=0; i < markers.length; ++i ) 
+    // alert(URL);
+    alert(fileName);
+    //Show Markers from /files/filename.json file
+    for ( var i=0; i < markers.length-1; ++i ) 
     {
-       L.marker( [markers[i].lat, markers[i].lng] )
-          .bindPopup( '<a href="' + markers[i].url + '" target="_blank">' + markers[i].name + '</a>' )
-          .addTo( map );
+       // L.marker( [markers[i].lat, markers[i].lng] )
+       //    .bindPopup( '<a href="' + markers[i].url + '" target="_blank">' + markers[i].name + '</a>' )
+       //    .addTo( map );
+
+                      var pointA = new L.LatLng(markers[i].lat , markers[i].lng);
+                      // alert(pointA);
+                      var pointB = new L.LatLng(markers[i+1].lat , markers[i+1].lng);
+                      // alert(pointB);
+                      var pointList = [pointA,pointB];
+                      var firstpolyline = new L.Polyline(pointList, {
+                        color: 'red',
+                        weight: 3,
+                        opacity: 0.5,
+                        smoothFactor: 1
+                      });
+                      firstpolyline.addTo(map);
     }
 
 }

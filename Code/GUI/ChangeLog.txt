@@ -1,0 +1,10 @@
+# OSM Map integration -- done
+
+# Plotting gps traces -- done
+
+# file upload -- done
+
+# Map Centre updated to beijing -- done
+
+# Basic Bootstrap design -- done
+
