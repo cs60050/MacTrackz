@@ -3,7 +3,7 @@ Road Segmentation is the classification of each road segment of the road network
 to define threshold values for congestion detection of each road type seperately.
 
 Each road segment/edge has the following attributes (table name: “road_table_name”; database name: “road_network”)
-road_table_name:
+
 
  gid</br>class_id</br>length</br>length_m name</br>source</br>target</br>x1</br>y1</br>x2</br>y2</br>cost</br>reverse_cost</br>cost_s</br>reverse_cost_s</br>rule</br>one_way</br>maxspeed_forward</br>osm_id</br>source_osm</br>target_osm</br>priority|
  :-------------------------------------------------------------
